@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KI6\\CSHARP\\TUAN1\\BTAP1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4859494-6F2D-4802-A930-ABC6478D1F28}|BTAP1\\BTAP1.vbproj|d:\\ki6\\csharp\\tuan1\\btap1\\btap1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{A4859494-6F2D-4802-A930-ABC6478D1F28}|BTAP1\\BTAP1.vbproj|solutionrelative:btap1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 128,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "D:\\KI6\\CSHARP\\TUAN1\\BTAP1\\BTAP1\\Form1.vb",
+              "RelativeDocumentMoniker": "BTAP1\\Form1.vb",
+              "ToolTip": "D:\\KI6\\CSHARP\\TUAN1\\BTAP1\\BTAP1\\Form1.vb [Design]",
+              "RelativeToolTip": "BTAP1\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-28T14:09:17.213Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
