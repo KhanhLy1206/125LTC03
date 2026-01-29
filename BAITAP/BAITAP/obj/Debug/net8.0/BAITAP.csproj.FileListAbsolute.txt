@@ -12,3 +12,4 @@ D:\KI6\CSHARP\TUAN3\BAITAP\BAITAP\obj\Debug\net8.0\refint\BAITAP.dll
 D:\KI6\CSHARP\TUAN3\BAITAP\BAITAP\obj\Debug\net8.0\BAITAP.pdb
 D:\KI6\CSHARP\TUAN3\BAITAP\BAITAP\obj\Debug\net8.0\BAITAP.genruntimeconfig.cache
 D:\KI6\CSHARP\TUAN3\BAITAP\BAITAP\obj\Debug\net8.0\ref\BAITAP.dll
+D:\KI6\CSHARP\TUAN3\BAITAP\BAITAP\obj\Debug\net8.0\BAITAP.sourcelink.json
