@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\KI6\\C#\\MVC_PROJECT\\MVC_1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1035EB48-0090-4386-BB3B-F6F26C6E18FB}|MVC_1\\MVC_1.csproj|d:\\ki6\\c#\\mvc_project\\mvc_1\\mvc_1\\migrations\\20260410153255_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1035EB48-0090-4386-BB3B-F6F26C6E18FB}|MVC_1\\MVC_1.csproj|solutionrelative:mvc_1\\migrations\\20260410153255_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1035EB48-0090-4386-BB3B-F6F26C6E18FB}|MVC_1\\MVC_1.csproj|d:\\ki6\\c#\\mvc_project\\mvc_1\\mvc_1\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1035EB48-0090-4386-BB3B-F6F26C6E18FB}|MVC_1\\MVC_1.csproj|solutionrelative:mvc_1\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -26,11 +30,24 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "20260410153255_InitialCreate.cs",
+              "DocumentMoniker": "D:\\KI6\\C#\\MVC_PROJECT\\MVC_1\\MVC_1\\Migrations\\20260410153255_InitialCreate.cs",
+              "RelativeDocumentMoniker": "MVC_1\\Migrations\\20260410153255_InitialCreate.cs",
+              "ToolTip": "D:\\KI6\\C#\\MVC_PROJECT\\MVC_1\\MVC_1\\Migrations\\20260410153255_InitialCreate.cs",
+              "RelativeToolTip": "MVC_1\\Migrations\\20260410153255_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T15:33:02.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\KI6\\C#\\MVC_PROJECT\\MVC_1\\MVC_1\\appsettings.json",
               "RelativeDocumentMoniker": "MVC_1\\appsettings.json",
@@ -38,12 +55,11 @@
               "RelativeToolTip": "MVC_1\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-10T15:20:26.984Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-10T15:20:26.984Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\KI6\\C#\\MVC_PROJECT\\MVC_1\\MVC_1\\Program.cs",
               "RelativeDocumentMoniker": "MVC_1\\Program.cs",
@@ -51,12 +67,11 @@
               "RelativeToolTip": "MVC_1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T15:20:24.419Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-10T15:20:24.419Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\KI6\\C#\\MVC_PROJECT\\MVC_1\\MVC_1\\Models\\AppDbContext.cs",
               "RelativeDocumentMoniker": "MVC_1\\Models\\AppDbContext.cs",
@@ -64,12 +79,11 @@
               "RelativeToolTip": "MVC_1\\Models\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T15:03:19.138Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-10T15:03:19.138Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Student.cs",
               "DocumentMoniker": "D:\\KI6\\C#\\MVC_PROJECT\\MVC_1\\MVC_1\\Models\\Student.cs",
               "RelativeDocumentMoniker": "MVC_1\\Models\\Student.cs",
