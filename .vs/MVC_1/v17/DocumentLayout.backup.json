@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\KI6\\C#\\MVC_PROJECT\\MVC_1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1035EB48-0090-4386-BB3B-F6F26C6E18FB}|MVC_1\\MVC_1.csproj|d:\\ki6\\c#\\mvc_project\\mvc_1\\mvc_1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1035EB48-0090-4386-BB3B-F6F26C6E18FB}|MVC_1\\MVC_1.csproj|solutionrelative:mvc_1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1035EB48-0090-4386-BB3B-F6F26C6E18FB}|MVC_1\\MVC_1.csproj|d:\\ki6\\c#\\mvc_project\\mvc_1\\mvc_1\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1035EB48-0090-4386-BB3B-F6F26C6E18FB}|MVC_1\\MVC_1.csproj|solutionrelative:mvc_1\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\KI6\\C#\\MVC_PROJECT\\MVC_1\\MVC_1\\appsettings.json",
+              "RelativeDocumentMoniker": "MVC_1\\appsettings.json",
+              "ToolTip": "D:\\KI6\\C#\\MVC_PROJECT\\MVC_1\\MVC_1\\appsettings.json",
+              "RelativeToolTip": "MVC_1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-10T15:07:40.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\KI6\\C#\\MVC_PROJECT\\MVC_1\\MVC_1\\Models\\AppDbContext.cs",
               "RelativeDocumentMoniker": "MVC_1\\Models\\AppDbContext.cs",
@@ -35,7 +52,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Student.cs",
               "DocumentMoniker": "D:\\KI6\\C#\\MVC_PROJECT\\MVC_1\\MVC_1\\Models\\Student.cs",
               "RelativeDocumentMoniker": "MVC_1\\Models\\Student.cs",
