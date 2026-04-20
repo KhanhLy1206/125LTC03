@@ -12,6 +12,6 @@
         public int GiaoVienId { get; set; }
         public GiaoVien? GiaoVien { get; set; }
 
-        public List<DangKyHoc> DangKyHocs { get; set; } = new();;
+        public List<DangKyHoc> DangKyHocs { get; set; } = new();
     }
 }
