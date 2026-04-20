@@ -48,8 +48,8 @@ namespace BaiTap_MVC.Controllers
         // GET: DangKyHocs/Create
         public IActionResult Create()
         {
-            ViewData["LopHocPhanId"] = new SelectList(_context.LopHocPhans, "Id", "Id");
-            ViewData["SinhVienId"] = new SelectList(_context.SinhViens, "Id", "Id");
+            ViewData["LopHocPhanId"] = new SelectList(_context.LopHocPhans, "Id", "TenLopHocPhan");
+            ViewData["SinhVienId"] = new SelectList(_context.SinhViens, "Id", "HoTen");
             return View();
         }
 
@@ -66,8 +66,8 @@ namespace BaiTap_MVC.Controllers
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["LopHocPhanId"] = new SelectList(_context.LopHocPhans, "Id", "Id", dangKyHoc.LopHocPhanId);
-            ViewData["SinhVienId"] = new SelectList(_context.SinhViens, "Id", "Id", dangKyHoc.SinhVienId);
+            ViewData["LopHocPhanId"] = new SelectList(_context.LopHocPhans, "Id", "TenLopHocPhan", dangKyHoc.LopHocPhanId);
+            ViewData["SinhVienId"] = new SelectList(_context.SinhViens, "Id", "HpTen", dangKyHoc.SinhVienId);
             return View(dangKyHoc);
         }
 
@@ -84,8 +84,8 @@ namespace BaiTap_MVC.Controllers
             {
                 return NotFound();
             }
-            ViewData["LopHocPhanId"] = new SelectList(_context.LopHocPhans, "Id", "Id", dangKyHoc.LopHocPhanId);
-            ViewData["SinhVienId"] = new SelectList(_context.SinhViens, "Id", "Id", dangKyHoc.SinhVienId);
+            ViewData["LopHocPhanId"] = new SelectList(_context.LopHocPhans, "Id", "TenLopHocPhan", dangKyHoc.LopHocPhanId);
+            ViewData["SinhVienId"] = new SelectList(_context.SinhViens, "Id", "HoTen", dangKyHoc.SinhVienId);
             return View(dangKyHoc);
         }
 
@@ -121,8 +121,8 @@ namespace BaiTap_MVC.Controllers
                 }
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["LopHocPhanId"] = new SelectList(_context.LopHocPhans, "Id", "Id", dangKyHoc.LopHocPhanId);
-            ViewData["SinhVienId"] = new SelectList(_context.SinhViens, "Id", "Id", dangKyHoc.SinhVienId);
+            ViewData["LopHocPhanId"] = new SelectList(_context.LopHocPhans, "Id", "TenLopHocPhan", dangKyHoc.LopHocPhanId);
+            ViewData["SinhVienId"] = new SelectList(_context.SinhViens, "Id", "HoTen", dangKyHoc.SinhVienId);
             return View(dangKyHoc);
         }
 
